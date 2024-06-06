@@ -1,0 +1,6 @@
+.vscode/settings.json
+build
+esp_cryptoauth_utility/helper_scripts/__pycache__
+.DS_Store
+esp_cryptoauth_utility/firmware/dependencies.lock
+esp_cryptoauth_utility/firmware/sdkconfig.old
